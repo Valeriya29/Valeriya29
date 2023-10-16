@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  Hi there 👋
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="100"/>
+  <p>Hi there 👋</p>
 </div>
-<h3 align="center">from Ukraine, Kyiv  :ukraine: </h3>
+<h3 align="center">I'm from Ukraine, Kyiv  :ukraine: </h3>
 
 <p align="center">
 <kbd>
