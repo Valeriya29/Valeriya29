@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="300" height="300"/>
-  <div>Guys,hi there 👋</div>
+  <h3>Guys,hi there 👋</h3>
 </div>
-<h3 align="center">I'm from Ukraine, Kyiv  :ukraine: </h3>
+<h4 align="center">I'm from Ukraine, Kyiv  :ukraine: </h4>
 
 <p align="center">
 <kbd>
