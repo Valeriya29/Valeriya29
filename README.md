@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="100"/>
-  <p>Hi there 👋</p>
+  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="300" height="300"/>
+  <div>Guys,hi there 👋</div>
 </div>
 <h3 align="center">I'm from Ukraine, Kyiv  :ukraine: </h3>
 
